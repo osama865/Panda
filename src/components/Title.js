@@ -3,7 +3,11 @@ import React from "react";
 const Title = () => {
   return (
     <div className="title">
-      <h1>O-FireGram</h1>
+      <div>
+      <img src="Panda Logo.jpg" alt='panda logo' />
+      </div>
+      {/* <h1>Panda</h1> */}
+      
       <h2>Your Pictures</h2>
       <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
     </div>
@@ -11,3 +15,4 @@ const Title = () => {
 };
 
 export default Title;
+

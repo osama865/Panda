@@ -3,13 +3,13 @@ import "firebase/storage";
 import "firebase/firestore";
 // Your web app's Firebase configuration
 var firebaseConfig = {
-  apiKey: "AIzaSyCJWCxo39GqGdue08QPYKrl8Q_WHQvx_8c",
-  authDomain: "o-firegram.firebaseapp.com",
-  databaseURL: "https://o-firegram.firebaseio.com",
-  projectId: "o-firegram",
-  storageBucket: "o-firegram.appspot.com",
-  messagingSenderId: "1063341242851",
-  appId: "1:1063341242851:web:ab5c8e628ba82dd48f08d6"
+  apiKey: "AIzaSyDyNER6F3WeovrZg0PiJNa0OE2Km0NH5pU",
+  authDomain: "panda-37a14.firebaseapp.com",
+  databaseURL: "https://panda-37a14.firebaseio.com",
+  projectId: "panda-37a14",
+  storageBucket: "panda-37a14.appspot.com",
+  messagingSenderId: "651396822398",
+  appId: "1:651396822398:web:2e977f161a70b7d5c5af2f"
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
